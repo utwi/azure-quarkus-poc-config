@@ -6,5 +6,5 @@ resources:
 - ingress.yaml
 images:
 - name: quarkus-demo
-  newName: twintpocregistry.azurecr.io/twintpoc/quarkus-poc
-  newTag: "1.0.0"
+  newName: twintpocregistry.azurecr.io/quarkus-poc
+  newTag: "8"
